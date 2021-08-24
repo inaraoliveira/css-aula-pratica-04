@@ -1,0 +1,13 @@
+#caixa_com_box_model_01{
+    width: 300px;
+    padding: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #F5F5DC;
+    margin: 5px;
+    background-color: #BF1F1F;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 12PX;
+    text-align: left;
+    color: #4B0082;
+}

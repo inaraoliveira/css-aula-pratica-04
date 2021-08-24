@@ -1,0 +1,31 @@
+#div1{
+    width: 300px;
+    height: 220px;
+    float: left;
+    color: white;
+    text-align: center;
+    background-color: rgb(26, 16, 16);
+}
+
+#div2{
+    width: 300px;
+    height: 220px;
+    float: left;
+    color: white;
+    text-align: center;
+    background-color: rgb(118, 216, 62);
+}
+
+#div3{
+    width: 300px;
+    height: 220px;
+    float: left;
+    color: white;
+    text-align: center;
+    background-color: rgb(182, 179, 179);
+    
+}
+
+p{
+    margin: 0;
+}

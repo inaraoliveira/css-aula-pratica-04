@@ -1,0 +1,14 @@
+#caixa_com_box_model_02{
+    width: 345px;
+    padding: 20px;
+    border-width: 7px;
+    border-style: dotted;
+    border-color: RGB(139,0,139);
+    margin: 15px auto;
+    background-color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    color: RGB(25,25,112);
+    text-align: right;
+}

@@ -1,0 +1,23 @@
+body{
+    margin-top: 0;
+}
+
+.div-esquerda{
+    float: left;
+    background-color: black;
+    color: white;
+    width: 340px;
+    height: 340px;
+    margin-top: 60px;
+    padding: 10px;
+}
+
+.div-direita{
+    width: 700px;
+    height: 460px;
+    float: right;
+    margin-right: 10px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(175, 174, 174);
+}
